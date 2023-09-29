@@ -1,6 +1,6 @@
 # Diabetes_Patient_Analysis_Dashboard
 
-👋🏻Hello #linkedinfamily
+👋🏻Hello 
 
 Exited to share my 2️⃣nd Task "Diabetes Patients Analysis" as a intern at MeriSKILL to create Amazing Dashboard with meaningful Insights.
 
